@@ -1,3 +1,2 @@
-# Another readme file
-
-*This file further details the content of documentation folder*
+*nama    : Muhammad Rahulil*
+*NIM     : 24051905009*
